@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌐 Rethiga Chokkalingam Portfolio
 
-# Run and deploy your AI Studio app
+This is my personal portfolio website built using React, Vite, and Tailwind CSS.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/22302289-a4ad-4873-86d5-f1271b18126e
+* Modern UI with animations
+* Project showcase
+* Certifications section
+* Responsive design
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+* React.js
+* Vite
+* Tailwind CSS
 
+## ▶️ Run Locally
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Install dependencies
+   npm install
+
+2. Start development server
+   npm run dev
+
+## 🌍 Live Website
+
+https://rethigaC.github.io/RethigaChokkalingam-Portfolio/
+
+## 📂 Repository
+
+https://github.com/rethigaC/RethigaChokkalingam-Portfolio
